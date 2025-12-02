@@ -1,1 +1,2 @@
 this example
+is now hijacked
